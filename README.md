@@ -19,7 +19,7 @@ Here I applied the Pricipal Component Analysis algorithm to reduce the dimension
 Using my knowledge of the K-Means algorithm, I created an elbow curve using hvPlot to find the best value for K from the pcs DataFrame created in Delvierable 2. The I ran the K-Means algorithm to predict the K clusters for the crypto data.
 
 #### Clustering Crypto using K-Means
-(insert pictures here)
+![Deliverable_3_clustered_df](./Cryptocurrencies/Deliverable_3_clustered_df.png)
 
 ### Deliverable 4: Visualzing Cryptocurrencies Results 
 I created scatter plots with plotly Express and hvplot. I visualized the distince groups that corresponded to the three principal components made in Deliverable 2. Finally, I created a table with all the currently tradable cryptocurrencies using the hvplot.table() function.
