@@ -41,4 +41,10 @@ I created scatter plots with plotly Express and hvplot. I visualized the distinc
 ## Resources
 - Pandas
 - Jupyter Notebook 
-- 
+- hvplot
+- Plotly Express
+- PCA
+- StandardScaler
+- MinMaxScaler
+- KMeans
+
